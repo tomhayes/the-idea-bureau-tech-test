@@ -1,4 +1,4 @@
-#The Idea Bureau Tech Test - Tom Hayes
+# The Idea Bureau Tech Test - Tom Hayes
 
 A simple HTML tech test for The Idea Bureau. 
 
